@@ -336,7 +336,7 @@ public class Calculadora {
 				
 			}
 		});
-		btnE.setForeground(Color.GRAY);
+		btnE.setForeground(Color.BLACK);
 		btnE.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		btnE.setBounds(270, 425, 70, 70);
 		frame.getContentPane().add(btnE);
